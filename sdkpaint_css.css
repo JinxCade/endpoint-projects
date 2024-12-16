@@ -1,14 +1,10 @@
-body:before {content:"News: Huge plans soon";text-align:center;display:block;color:#100632!important;padding:8px;background-color:#9A9E9B;font-family:Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal;}
-body:after {content:"2019-2024 | JinxCade | jinxcade.venith.net 2023-2024";text-align:center;display:block;color:#100632!important;padding:8px;border:1px transparent solid;background-color:#9A9E9B;font-family:Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal;}
 body {background-color:#9A9E9B!important;cursor:url(https://jinxcade.venith.net/cursor.png);background-image:linear-gradient(black,#121613,#454946,#121613,black)!important;}
 
 
 .alerts_popup::before { content: "There is a " !important; }
 .alerts_popup::after { content: "! Please read it, and come back to my profile later!" !important; }
 
-
-IMG[src="https:///images/art_gallery/248625.png"] {content:url(https://3dspaint.com/images/art_gallery/248626.png)!important;}
-IMG[src="/images/logo.png"] {content:url(?id=146497&block=true)!important;content:url(https://3dspaint.com/images/art_gallery/248566.png)!important;height:50px;}
+IMG[src="/images/logo.png"] {content:url(https://3dspaint.com/images/art_gallery/248566.png)!important;height:50px;}
 
 
 a {color:#0000ff!important;border-radius:1px!important;font-family:Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal!important;}
@@ -19,13 +15,13 @@ a[href="?id=146497&block=true"]{color:#ff0000!important;}
 .head {color:#4400ff!important;}
 .nav_div {color:#554466!important;}
 .avatar { border-radius: 50px !important; height: 35px !important; width: 35px !important; }
-.nav_avatar { border-radius: 20px !important; height: 32px !important; width: 32px !important;cursor:url(https://jinxcade.venith.net/cursor_click.png);}
+.nav_avatar { border-radius: 20px !important; height: 32px !important; width: 32px !important;}
 .form_button { background: white!important; color: #100632 !important; border-style: solid !important; border-color: #FFFF00 !important;border-width: 1px !important;text-align: center center !important; border-radius: 25px !important; font-family: Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal; !important; cursor:url(https://jinxcade.venith.net/cursor_image.png);cursor:url(https://jinxcade.venith.net/cursor_click.png);}
-textarea{border-color:purple!important;cursor:url(https://jinxcade.venith.net/cursor_text.png);color:#100632;}
+textarea{border-color:purple!important;color:#100632;}
 .form_textarea { background-color:#9A9E9B!important;}
 
 
-h1, div {background-color:#9A9E9B!important;cursor:url(https://jinxcade.venith.net/cursor_text.png);}
+h1, div {background-color:#9A9E9B!important;}
 td, div, .menu_section, .comments, .textarea, h1{border-color:#9A9E9B!important;color:#000000!important;text-align:center!important;}
 div {border-radius: 4px !important;font-family: Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal;}
 
@@ -44,12 +40,8 @@ a[href^="/group"]{color:#8800ff!important;}
 a[href^="members.php"]{color:#6600ff!important;}
 a[href^="sketchpad.php"]{display : none;}
 a[href^="page.php"] {color:#6600ff!important;}
-a[href="page.php?id=12156"] {color:#ffffff!important;}
-a[href="page.php?id=12156"]::before {content:"☆ "!important;color: purple!important}
-a[href="page.php?id=12156"]::after {content:" ☆"!important;color: purple!important}
 input {font-family:Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal!important;}
 IMG[src="/images/icons/icon_home.png"] {content:url(https://3dspaint.com/apple-touch-icon.png)!important;}
-a[href="/group"] {display : none;}
 
 
 
