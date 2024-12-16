@@ -159,8 +159,8 @@ IMG[src="/images/icons/icon_back.png"] {
 }
 IMG.icon {
 	background-image:url(https://3dspaint.com/images/art_gallery/248824.png)!important;
-	height:64px;
-	width:64px;
+	height:48px;
+	width:48px;
 }
 IMG[src="/images/logo.png"] {
 	content:url(https://3dspaint.com/images/art_gallery/248815.png)!important;
@@ -203,6 +203,6 @@ input.button_div{
 }
 menu_section DIV.icon IMG {
 	background-image:url(https://3dspaint.com/images/art_gallery/248824.png)!important;
-	height:64px;
-	width:64px;
+	height:48px;
+	width:48px;
 }
