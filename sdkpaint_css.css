@@ -7,8 +7,8 @@ body {background-color:#9A9E9B!important;cursor:url(https://jinxcade.venith.net/
 .alerts_popup::after { content: "! Please read it, and come back to my profile later!" !important; }
 
 
-IMG[src="/images/art_gallery/248625.png"] {content:url(/images/art_gallery/248626.png)!important;}
-IMG[src="/images/logo.png"] {content:url(?id=146497&block=true)!important;content:url(/images/art_gallery/248566.png)!important;height:50px;}
+IMG[src="https:///images/art_gallery/248625.png"] {content:url(https://3dspaint.com/images/art_gallery/248626.png)!important;}
+IMG[src="/images/logo.png"] {content:url(?id=146497&block=true)!important;content:url(https://3dspaint.com/images/art_gallery/248566.png)!important;height:50px;}
 
 
 a {color:#0000ff!important;border-radius:1px!important;font-family:Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal!important;}
@@ -48,7 +48,7 @@ a[href="page.php?id=12156"] {color:#ffffff!important;}
 a[href="page.php?id=12156"]::before {content:"☆ "!important;color: purple!important}
 a[href="page.php?id=12156"]::after {content:" ☆"!important;color: purple!important}
 input {font-family:Audiowide,Arial,sans-serif;font-weight:normal;font-style:normal!important;}
-IMG[src="/images/icons/icon_home.png"] {content:url(/apple-touch-icon.png)!important;}
+IMG[src="/images/icons/icon_home.png"] {content:url(https://3dspaint.com/apple-touch-icon.png)!important;}
 a[href="/group"] {display : none;}
 
 
@@ -62,18 +62,18 @@ a[href="#image"] {overflow: hidden;position: absolute;height: 0;width: 0;}
 
 
 
-IMG[src="/images/icons/icon_home.png"] {content:url(/images/art_gallery/248822.png)!important;}
-IMG[src="/images/icons/icon_back.png"] {content:url(/images/art_gallery/248823.png)!important;}
-IMG.icon {background-image:url(/images/art_gallery/248824.png)!important;height:48px;width:48px;}
-IMG[src="/images/logo.png"] {content:url(/images/art_gallery/248815.png)!important;}
-IMG[src="/images/badges/author2.png"] {content:url(/images/art_gallery/248816.png)!important;}
-IMG[src="/images/badges/courier2.png"] {content:url(/images/art_gallery/248817.png)!important;}
-IMG[src="/images/badges/poster1.png"] {content:url(/images/art_gallery/248818.png)!important;}
-IMG[src="/images/badges/socialite6.png"] {content:url(/images/art_gallery/248819.png)!important;}
-IMG[src="/images/rating_e32.png"] {content:url(/images/art_gallery/248820.png)!important;}
-IMG[src="/images/rating_t32.png"] {content:url(/images/art_gallery/248821.png)!important;}
-IMG[src="/images/flag20.png"] {content:url(/images/art_gallery/248825.png)!important;}
-IMG[src="/images/button_delete.png"] {content:url(/images/art_gallery/248826.png)!important;}
+IMG[src="/images/icons/icon_home.png"] {content:url(https://3dspaint.com/images/art_gallery/248822.png)!important;}
+IMG[src="/images/icons/icon_back.png"] {content:url(https://3dspaint.com/images/art_gallery/248823.png)!important;}
+IMG.icon {background-image:url(https://3dspaint.com/images/art_gallery/248824.png)!important;height:48px;width:48px;}
+IMG[src="/images/logo.png"] {content:url(https://3dspaint.com/images/art_gallery/248815.png)!important;}
+IMG[src="/images/badges/author2.png"] {content:url(https://3dspaint.com/images/art_gallery/248816.png)!important;}
+IMG[src="/images/badges/courier2.png"] {content:url(https://3dspaint.com/images/art_gallery/248817.png)!important;}
+IMG[src="/images/badges/poster1.png"] {content:url(https://3dspaint.com/images/art_gallery/248818.png)!important;}
+IMG[src="/images/badges/socialite6.png"] {content:url(https://3dspaint.com/images/art_gallery/248819.png)!important;}
+IMG[src="/images/rating_e32.png"] {content:url(https://3dspaint.com/images/art_gallery/248820.png)!important;}
+IMG[src="/images/rating_t32.png"] {content:url(https://3dspaint.com/images/art_gallery/248821.png)!important;}
+IMG[src="/images/flag20.png"] {content:url(https://3dspaint.com/images/art_gallery/248825.png)!important;}
+IMG[src="/images/button_delete.png"] {content:url(https://3dspaint.com/images/art_gallery/248826.png)!important;}
 
 
 
