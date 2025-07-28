@@ -4,4 +4,5 @@ This version includes:
 -Live updates (no more waiting for AGES!)
 -Multiple Discord Webhook support for multiple SDKPaint groups!
 -Fixes for more cases
+-Reset of message memory (for various reasons, like storing every single message instead of just it's id's)
 -# 🛈 This message was sent automatically.
