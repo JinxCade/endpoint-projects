@@ -1,8 +1,11 @@
 We have updated to....
 # Version 1.1!
 This version includes:
--Live updates (no more waiting for AGES!)
--Multiple Discord Webhook support for multiple SDKPaint groups!
--Fixes for more cases
--Reset of message memory (for various reasons, like storing every single message instead of just it's id's)
+> Live updates (no more waiting for AGES!)
+> Multiple Discord Webhook support for multiple SDKPaint groups!
+> Fixes for more cases
+> Reset of message memory (for various reasons, like storing every single message instead of just it's id's)
+# If you are new here:
+> Welcome!
+> Please be patient as we don't have a 2 way communication set up yet!
 -# 🛈 This message was sent automatically.
